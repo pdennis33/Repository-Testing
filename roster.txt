@@ -16,4 +16,6 @@ Defensive Blitz #1
 Defensive Blitz #2
  
 Running play #1
+Running play #2
 Passing play #1
+Passing play #2
